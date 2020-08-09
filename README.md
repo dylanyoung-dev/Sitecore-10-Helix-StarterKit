@@ -1,2 +1,2 @@
-# Sitecore-10-Helix-StarterKit
+# Sitecore 10 Helix StarterKit
 Using .Net Core New Helix Template
